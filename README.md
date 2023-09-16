@@ -21,7 +21,7 @@ ___
 ___
 ## Запуск
 Запуск стека командой `docker compose up -d`
-![]()
+![](https://github.com/Morody/GrafanaLoki/blob/4c85200b691c663b63bbc8811ed7750facd3d14a/img/img.png)
 
 Для входа в `Grafana` - `admin/admin`
 
@@ -35,7 +35,7 @@ ___
 
 Отображаются логи, которые можно увидеть в `./logs/nginx/access.log`
 
-![]()
-![]()
+![](https://github.com/Morody/GrafanaLoki/blob/4c85200b691c663b63bbc8811ed7750facd3d14a/img/img_1.png)
+![](https://github.com/Morody/GrafanaLoki/blob/4c85200b691c663b63bbc8811ed7750facd3d14a/img/img_2.png)
 
 
